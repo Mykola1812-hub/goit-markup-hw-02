@@ -110,7 +110,7 @@ color: #434455;
     color: #2e2f42;
 }
 
-.section-second-list-paragraph{
+.section-second-item{
     background-color: #fff;
 }
 
@@ -127,6 +127,15 @@ color: #434455;
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
+}
+
+/*section 3*/
+.section-third{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
 }
 
 /*footer*/
