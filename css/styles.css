@@ -138,6 +138,7 @@ color: #434455;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .section-third-list-item{
@@ -150,6 +151,7 @@ color: #434455;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .section-third-list-paragraph{
