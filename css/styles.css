@@ -95,6 +95,36 @@ color: #434455;
     letter-spacing: 0.02em;
 }
 
+/*section 2*/
+.section-second{
+    background-color: #f4f4fd;
+}
+
+.section-second-heading{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.section-second-list-heading{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.section-second-list-paragraph{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
+}
+
 /*footer*/
 footer{
     background-color: #2e2f42;
