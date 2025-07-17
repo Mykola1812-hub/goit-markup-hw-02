@@ -107,6 +107,7 @@ color: #434455;
     letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
+    color: #2e2f42;
 }
 
 .section-second-item{
@@ -130,13 +131,32 @@ color: #434455;
 }
 
 /*section 3*/
-.section-third{
+.section-third-heading{
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11;
+    line-height: 1.11111;
     letter-spacing: 0.02em;
     text-align: center;
+    color: #2e2f42;
 }
+
+.section-third-list-item{
+    background-color: #fff;
+}
+
+.section-third-list-heading{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.section-third-list-paragraph{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
 
 /*footer*/
 footer{
